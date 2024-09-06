@@ -26,7 +26,7 @@ This Python-based packet sniffer captures and analyzes network packets. It provi
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Network_packet_analyzer.git
-   cd packet-sniffer-tool
+   cd Network_packet_analyzer
    ```
 
 2. Install the required Python packages:
